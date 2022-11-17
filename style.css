@@ -137,6 +137,7 @@ img {
   left: 0;
   top: 2rem;
   background-color: var(--first-color);
+  background-image: url('bg.jpeg');
 }
 
 .nav__logo {
@@ -463,4 +464,8 @@ img {
   .home__img {
     width: 450px;
   }
+}
+.cert{
+  display: flex;
+  align-items: center;
 }
